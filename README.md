@@ -1,5 +1,5 @@
 # Welcome to my github page.
-## This is new to me so buckle up.
-### This should be a link: [BSU-ConnorNielsen.github.io](https://bsu-connornielsen.github.io)
-
-# BSU-ConnorNielsen.github.io
+## My info:
+I am learning about github pages for the first time and this has been a struggle.
+## Link to my github page:
+This should be a link: [BSU-ConnorNielsen.github.io](https://bsu-connornielsen.github.io)
